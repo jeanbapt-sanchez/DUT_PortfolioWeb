@@ -1,0 +1,8 @@
+.text{
+  font-size :15pt;
+  margin :0;
+}
+
+#header, #topmenu, #backtotop, #footer, .link{
+  display :none;
+}
